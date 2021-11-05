@@ -1,6 +1,6 @@
 # SQL Airport Mystery
 
-![](https://i.giphy.com/media/Yiw4aLjpxldhC/giphy.webp)
+<img src="https://i.giphy.com/media/Yiw4aLjpxldhC/giphy.webp" width="100%">
 
 To get started, download the [`sql-mystery.sqlite`](sql-mystery.sqlite) file.
 
